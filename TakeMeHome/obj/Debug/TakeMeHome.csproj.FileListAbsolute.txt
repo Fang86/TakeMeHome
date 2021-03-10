@@ -1,0 +1,14 @@
+C:\Users\fango\source\repos\TakeMeHome\TakeMeHome\bin\Debug\TakeMeHome.dll
+C:\Users\fango\source\repos\TakeMeHome\TakeMeHome\bin\Debug\TakeMeHome.pdb
+C:\Users\fango\source\repos\TakeMeHome\TakeMeHome\bin\Debug\0Harmony.dll
+C:\Users\fango\source\repos\TakeMeHome\TakeMeHome\bin\Debug\assembly_valheim.dll
+C:\Users\fango\source\repos\TakeMeHome\TakeMeHome\bin\Debug\BepInEx.dll
+C:\Users\fango\source\repos\TakeMeHome\TakeMeHome\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\fango\source\repos\TakeMeHome\TakeMeHome\bin\Debug\UnityEngine.dll
+C:\Users\fango\source\repos\TakeMeHome\TakeMeHome\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\fango\source\repos\TakeMeHome\TakeMeHome\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\fango\source\repos\TakeMeHome\TakeMeHome\obj\Debug\TakeMeHome.csprojAssemblyReference.cache
+C:\Users\fango\source\repos\TakeMeHome\TakeMeHome\obj\Debug\TakeMeHome.csproj.CoreCompileInputs.cache
+C:\Users\fango\source\repos\TakeMeHome\TakeMeHome\obj\Debug\TakeMeHome.csproj.CopyComplete
+C:\Users\fango\source\repos\TakeMeHome\TakeMeHome\obj\Debug\TakeMeHome.dll
+C:\Users\fango\source\repos\TakeMeHome\TakeMeHome\obj\Debug\TakeMeHome.pdb
