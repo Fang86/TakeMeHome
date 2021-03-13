@@ -1,0 +1,9 @@
+{
+  "name": "TakeMeHome",
+  "version_number": "1.0.2",
+  "website_url": "",
+  "description": "Take Me Home allows you to return to your spawn point with the press of a button. You can also teleport back to the position you were previously at when you teleported home.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.701"
+  ]
+}
